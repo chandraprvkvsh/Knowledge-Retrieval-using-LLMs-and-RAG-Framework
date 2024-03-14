@@ -15,5 +15,4 @@ This project employs a combination of cutting-edge technologies including the Ll
 - **Natural Language Understanding**: Leveraging state-of-the-art language models for accurate comprehension of user queries and textual data.
 - **Dynamic Retrieval**: The retriever component dynamically fetches relevant passages from the text corpus based on the input query.
 - **Contextual Answer Generation**: Answers are generated in context, ensuring coherence and relevance to the user query.
-- **Scalability**: The system is designed to scale efficiently, allowing for seamless handling of large volumes of text data and user queries.
 
