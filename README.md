@@ -17,10 +17,3 @@ This project employs a combination of cutting-edge technologies including the Ll
 - **Contextual Answer Generation**: Answers are generated in context, ensuring coherence and relevance to the user query.
 - **Scalability**: The system is designed to scale efficiently, allowing for seamless handling of large volumes of text data and user queries.
 
-## Usage
-
-To utilize the intelligent querying system:
-
-1. Access the system interface or API endpoint.
-2. Input your query or question.
-3. Receive relevant and informative responses based on the processed text data.
