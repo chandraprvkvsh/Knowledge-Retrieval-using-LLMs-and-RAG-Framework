@@ -1,6 +1,6 @@
 # Intelligent Querying with Llama2-7b, RAG Framework, Langchain, and Chroma Vector Database
 
-This project employs a combination of cutting-edge technologies including the Llama2-7b parameter model, RAG (Retriever-Answerer-Generator) framework, Langchain, and Chroma Vector Database to intelligently query the freely available PDF version of "Feynman Lectures on Computation" converted into a text format.
+This project employs a combination of cutting-edge technologies including the Llama2-7b parameter model, RAG (Retriever-Answerer-Generator) framework, Langchain, and Chroma Vector Database to intelligently query the freely available PDF version of "Feynman Lectures on Computation" converted into a text format. 
 
 ## Technologies Used
 
